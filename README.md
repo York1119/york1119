@@ -1,5 +1,15 @@
-## Hi there 👋
+## Howdy 👋
+---
 
+A recent graduate in Applied Mathematics from the University of Pittsburgh. Experience in mathematical modelling, computational mathematics, and simulation work.
+
+Currently applying to graduate schools to learn more about computational mathematics and hopefully start a career.
+
+---
+
+🧰Toolbox🧰
+
+<img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg alt = "Python logo" width ="50" height ="50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-plain-wordmark.svg alt="NumPy logo" width = "50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg alt ="MatPlotLib Logo" width ="50" height = "50" /> <img src=https://docs.sympy.org/latest/_images/sympy.svg alt = "SymPy Logo" width = "50" height = "50"/> <img src=https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg alt = "Pandas Logo" width = "50" height = "50"/>
 <!--
 **York1119/york1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
